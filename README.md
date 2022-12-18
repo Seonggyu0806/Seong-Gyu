@@ -20,7 +20,7 @@
 고등학교 졸업
 
 
-지금까지 배운 언어
+### 지금까지 배운 언어
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
