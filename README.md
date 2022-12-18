@@ -20,14 +20,18 @@
 고등학교 졸업
 
 
-### 지금까지 배운 언어
+### Code
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
+### Tool
 
-### To Be
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio code&logoColor=white"/>
+
+
+###  To Be
 
 정보처리기사 자격증 취득
 
@@ -40,6 +44,9 @@
 면접 연습하기
 
 
+### 깃 활동도
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonggyu0806&show_icons=true&theme=radical)
 
 
 
