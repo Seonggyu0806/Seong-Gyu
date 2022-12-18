@@ -1,10 +1,14 @@
 # Seong-Gyu
 
-Welcome my GitHub
 
-Introduce
+### Welcome my GitHub
 
-As Is
+
+### Introduce
+
+
+### As Is
+
 
 
 한세대학교 재학중(1학년)
@@ -22,7 +26,8 @@ As Is
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
-To Be
+
+### To Be
 
 정보처리기사 자격증 취득
 
